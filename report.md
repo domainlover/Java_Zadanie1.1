@@ -3,6 +3,7 @@
 ## Краткое описание
 
 Дата начала: 04.10.2020
+
 Дата окончания: 04.10.2020
 
 Было проведено:
@@ -14,8 +15,8 @@
 
 В результате тестирования выявлены следующие дефекты:
 
-https://github.com/domainlover/Java_Zadanie1.1/issues/1
-https://github.com/domainlover/Java_Zadanie1.1/issues/2
+1. https://github.com/domainlover/Java_Zadanie1.1/issues/1
+2. https://github.com/domainlover/Java_Zadanie1.1/issues/2
 
 ## Описание процесса тестирования
 
